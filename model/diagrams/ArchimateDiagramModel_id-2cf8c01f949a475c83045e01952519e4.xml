@@ -1999,7 +1999,7 @@
         id="id-2bc3f5b63e11450a97b1f1f505eac863"
         targetConnections="id-88efd93ce0034087a8834b703b72cdb4"
         font="1|Segoe UI|11.25|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fillColor="#d5e9ff">
+        fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e3a8a8cb7abb4f68b7b86b6e3a97ed4a"
@@ -2134,7 +2134,7 @@
         id="id-480a5cd213d542b486558b9ca9dfc17d"
         targetConnections="id-2a19ce126ae84d999afde01b792ee6a5"
         font="1|Segoe UI|11.25|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        fillColor="#d5e9ff">
+        fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8325b8bb441c4cbb91565efd84a04ecf"
