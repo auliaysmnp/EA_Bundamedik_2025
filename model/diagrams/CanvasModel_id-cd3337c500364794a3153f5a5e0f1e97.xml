@@ -225,12 +225,6 @@
         type="11"/>
     <sourceConnections
         xsi:type="canvas:CanvasModelConnection"
-        id="id-d67ccd35f9bb4cbcaf2b2920adca254a"
-        source="id-720080a72a6f4495b9e8c3dfe6619012"
-        target="id-46011aa5e5a041c08cac8f776a436b96"
-        type="11"/>
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
         id="id-e9ee3dc9d7cd4e3287c7bd3e2ed7af46"
         source="id-720080a72a6f4495b9e8c3dfe6619012"
         target="id-61e568db68a64de59897ae2fb065dfd3"
@@ -253,6 +247,12 @@
           endX="-192"
           endY="-14"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="canvas:CanvasModelConnection"
+        id="id-d67ccd35f9bb4cbcaf2b2920adca254a"
+        source="id-720080a72a6f4495b9e8c3dfe6619012"
+        target="id-46011aa5e5a041c08cac8f776a436b96"
+        type="11"/>
     <bounds
         x="576"
         y="342"
@@ -397,7 +397,7 @@
       content="Back Office"
       borderColor="#C0C0C0">
     <bounds
-        x="396"
+        x="408"
         y="564"
         width="733"
         height="97"/>
